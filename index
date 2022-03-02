@@ -1,0 +1,47 @@
+<div id="choices">
+  <div class="choice">
+    <div class="result">
+      <div class="bar" data-choice="1"></div>
+    </div>
+    <div class="label">
+      <p>Won Jimin</p>
+      <button data-choice="1">Vote</button>
+    </div>
+  </div>
+  <div class="choice">
+    <div class="result">
+      <div class="bar" data-choice="2"></div>
+    </div>
+    <div class="label">
+      <p>Kim Seonyou</p>
+      <button data-choice="2">Vote</button>
+    </div>
+  </div>
+  <div class="choice">
+    <div class="result">
+      <div class="bar" data-choice="3"></div>
+    </div>
+    <div class="label">
+      <p>Kim Hyunhee</p>
+      <button data-choice="3">Vote</button>
+    </div>
+  </div>
+  <div class="choice">
+    <div class="result">
+      <div class="bar" data-choice="4"></div>
+    </div>
+    <div class="label">
+      <p>Yoon Seungju</p>
+      <button data-choice="4">Vote</button>
+    </div>
+</div>
+<div class="choice">
+    <div class="result">
+      <div class="bar" data-choice="5"></div>
+    </div>
+    <div class="label">
+      <p>Bohme Sara</p>
+      <button data-choice="5">Vote</button>
+    </div>
+  </div>
+</div>
